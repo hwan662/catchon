@@ -483,6 +483,13 @@ h6,
 #msg-box8-1 .mbr-section-title {
   color: #b8312f;
 }
+#header3-4 .mbr-section-title,
+#header3-4 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4 H3 {
+  color: #ffffff;
+}
 #features2-5 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }

@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.4.3",
-    "uniqCompNum": 3,
+    "uniqCompNum": 5,
     "versionPublish": "3.10",
     "name": "catchon",
     "theme": {
@@ -323,6 +323,29 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e",
+            "showMeta": false
+          },
+          "title": "Catchon ทำอะไรให้ได้บ้าง",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -339,77 +362,72 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
+                "caption": "ถ่ายรูปด้วยมืออาชีพ",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "ออกแบบโครงสร้าง",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here",
+                "caption": "ท่านจะได้ Code เอาไว้",
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "พัฒนา Code",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "งานถ่ายภาพ",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "caption": "ออกแบบและทำให้แสดงผล",
+                "active": true
               },
               {
-                "tags": "Awesome",
+                "tags": "งานกราฟิก",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "caption": "ทำให้ค้นหาง่าย",
+                "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "ออกแบบโครงสร้าง",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "งานกราฟิก",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": true,
             "bgColor": "fff",
             "filterBgColor": false,
@@ -418,7 +436,7 @@
           },
           "_anchor": "gallery4-0",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "งานทั้งหมด"
         },
         {
           "_inherit": "features1",
@@ -462,9 +480,9 @@
               "family": "et-line"
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "การแสดงผลที่สวยงาม",
+          "subtitle1": "คอมพิวเตอร์",
+          "caption1": "การอออกแบบที่เรียบง่าย มีสไตย์ ดูแล้วสะอาดตาม เมื่อแสดงผลในคอมพิวเตอร์ จะเป็นสิ่งหนึ่งที่ ผู้เยี่ยมชมได้เข้าถึงข้อมูลการสื่อสารที่ ธุรกิจนั้นต้องการสื่อ และเห็นผลชัดเจน",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -477,8 +495,8 @@
             }
           },
           "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "หน้าจอแสดงได้อย่างเหมาะสมทุกอุปกรณ์",
+          "caption2": "ทุกวันนี้ หากเว็ปไซน์ไหนที่แสดงผลอุปกรณ์ที่เป็นมือถือ แทปเล็ต ที่คนส่วยใหญ่มี จะมีโอกาสที่จะเสียดุลการค้า มากกว่าเว็ปที่ทำได้",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -491,8 +509,8 @@
             }
           },
           "title3": "เขียน CODE",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "Html5 CSS JAVA",
+          "caption3": "เราพัฒนาเว็ปไซน์ด้วยการ ทำออกมาให้อยู่ในรูปแบบที่แก้ไขได้ง่าย และสามารถส่งมอบ Code ให้กับลูกค้าเพื่อนำไปเก็บรักษาหรือแก้ไขได้",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
