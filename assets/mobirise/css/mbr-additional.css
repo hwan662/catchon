@@ -493,6 +493,9 @@ h6,
 #features2-5 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
+#msg-box1-5 H2 {
+  font-size: 20px;
+}
 #contacts2-0 STRONG {
   color: #ff0000;
 }
