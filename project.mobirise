@@ -595,20 +595,6 @@
           "_customTemplate": true
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<a href=\"http://www.freepik.com/free-vector/businessman-with-a-sign-of-success_958506.htm\">Designed by Freepik</a>",
-          "_customCSS": "",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-8",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
-        },
-        {
           "alias": "facebook-comments",
           "_tags": [
             "Extension"
