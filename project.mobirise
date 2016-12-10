@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.4.3",
-    "uniqCompNum": 6,
+    "uniqCompNum": 9,
     "versionPublish": "3.10",
     "name": "catchon",
     "theme": {
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Why us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Web Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "header1",
@@ -154,7 +154,7 @@
               "url": "https://www.youtube.com/embed/7QLSlN0Wdfg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "right",
@@ -167,14 +167,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#b8312f"
-            }
-          },
           "_tags": [
             "Theme"
           ],
@@ -185,7 +177,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hansa-2000x1324-9.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -201,9 +193,14 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Catch-on",
+          "title": "Catch-\u001bon",
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Catch-on แคชออน เป็นบริษัทที่ตั้งอยู่ในท้องถิ่น และให้ความสำคัญต่อการพัฒนา ธุรกิจท้องถิ่น ให้ให้ก้าวไปสู่สากล ที่คนทั้งโลกจะมีโอกาสได้เห็น หรือสัมผัส ด้วยระบบเทคโนโลยี ด้าน internet ที่มีอยู่ในปัจจุบัน แคชออน เรายินดีรับบริการให้กับ ธุรกิจท้องถิ่นที่มีสถานที่ตั้ง ตำแหน่ง อยู่บนพื้นผิวโลก แล้วมาสร้างตัวตนในโลก online กับเรา เราจะทำให้ผู้คนได้ค้นหาท่านจนเจอ ด้วยเนื้อหาสาระสินค้าหรือบริการของท่าน ที่จะเป็นตัวนำคนเข้ามาในธุรกิจท้องถิ่นของท่าน อย่างเช่น \" ร้านอาหาร ในจังหวัดขอนแก่น\" หรือ \"ที่พัก อุบลราชธานี\" แม้แต่ \"เช่ารถตู้ โคราช\" \"ช่างซ่อมพระ นครพนม\" \"คลินิค ในอำเภอนางรอง\"เป็นต้น ผลการค้นหาดังกล่าวจะนำพาผู้ที่สนใจ ไปหาท่านด้วยเบอร์โทรศัพท์ แผนที รวมถึงการนำทางด้วย Google Map นอกจากนี้เรายังสามารถเปลี่ยนแฟนคลับ ร้านอาหาร หรือร้านกาแฟ ให้กลายเป็นผู้โฆษณาให้กับธุรกิจท้องถิ่นนั้นได้ ด้วยเทคโนโลยี่ Free Wifi เพิ่มจำนวนผู้เข้าร้าน และสร้างความจงรักภักดีต้องธุรกิจได้มหาศาล</span><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/hansa-2000x1324-9.jpg); padding-top: 10px; padding-bottom: 30px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"myhead display-2 mbr-editable-content\" code-editable-id=\"86\">Catch-\u001bon</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"87\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Catch-on แคชออน เป็นบริษัทที่ตั้งอยู่ในท้องถิ่น และให้ความสำคัญต่อการพัฒนา ธุรกิจท้องถิ่น ให้ให้ก้าวไปสู่สากล ที่คนทั้งโลกจะมีโอกาสได้เห็น หรือสัมผัส ด้วยระบบเทคโนโลยี ด้าน internet ที่มีอยู่ในปัจจุบัน แคชออน เรายินดีรับบริการให้กับ ธุรกิจท้องถิ่นที่มีสถานที่ตั้ง ตำแหน่ง อยู่บนพื้นผิวโลก แล้วมาสร้างตัวตนในโลก online กับเรา เราจะทำให้ผู้คนได้ค้นหาท่านจนเจอ ด้วยเนื้อหาสาระสินค้าหรือบริการของท่าน ที่จะเป็นตัวนำคนเข้ามาในธุรกิจท้องถิ่นของท่าน อย่างเช่น \" ร้านอาหาร ในจังหวัดขอนแก่น\" หรือ \"ที่พัก อุบลราชธานี\" แม้แต่ \"เช่ารถตู้ โคราช\" \"ช่างซ่อมพระ นครพนม\" \"คลินิค ในอำเภอนางรอง\"เป็นต้น ผลการค้นหาดังกล่าวจะนำพาผู้ที่สนใจ ไปหาท่านด้วยเบอร์โทรศัพท์ แผนที รวมถึงการนำทางด้วย Google Map ง่ายต่อการเข้าถึงสำหรับทุกรณี</span><br></p></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, p {\n\tcolor: #fff;\n}\n.mbr-section-title {\n\tcolor: #b8312f;\n}\n.myhead {\n    color: white;\n    text-shadow: 2px 2px 4px #FF0000;\n}",
+          "_customTemplate": true
         },
         {
           "_inherit": "features3",
@@ -323,19 +320,11 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-4",
+          "_anchor": "header3-6",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -343,7 +332,12 @@
             "showMeta": false
           },
           "title": "Catchon ทำอะไรให้ได้บ้าง",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": "By John Smith posted July 20, 2016",
+          "_customCSS": ".myhead002{\n    color: white;\n    text-shadow: 2px 2px 4px black, 0 0 25px red, 0 0 5px darkblue;\n    text-align: center;\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(40, 50, 78); padding-top: 0px; padding-bottom: 10px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"myhead002 display-2 mbr-editable-content\" code-editable-id=\"59\">Catchonทำอะไรให้ได้บ้าง</h3>\n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_inherit": "gallery1",
@@ -570,7 +564,7 @@
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-5",
+          "_anchor": "msg-box1-7",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -591,14 +585,28 @@
             "showText": true,
             "showTitle": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ไปดูค่าใช้จ่ายเลย</a>",
-          "text": "ข้อมูลยังมีอีกเพิ่มเติมเพื่อให้ท่านได้ตัดสันใจ หรือจะให้Commentกับเราด้านล่างนี้",
-          "title": "หรือจะให้Commentกับเรา",
-          "_styles": {
-            "H2": {
-              "font-size": "20px"
-            }
-          }
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">How Much</a>",
+          "text": "ข้อมูลยังมีอีกเพิ่มเติมเพื่อให้ท่านได้ตัดสินใจ หรือจะให้ Comment กับเราด้านล่างนี้",
+          "title": "PRE MADE BLOCKS",
+          "_customHTML": "<section class=\"mbr-info mbr-info-extra mbr-section mbr-section-md-padding\" style=\"background-color: rgb(242, 242, 242); padding-top: 30px; padding-bottom: 30px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">            \n\n\n            <div class=\"mbr-table-md-up\">\n                <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                    <h2 class=\"mbr-info-subtitle mbr-section-subtitle mbr-editable-content\" code-editable-id=\"99\">ข้อมูลยังมีอีกเพิ่มเติมเพื่อให้ท่านได้ตัดสินใจ หรือจะให้ Comment กับเราด้านล่างนี้</h2>\n                    \n                </div>\n\n                <div class=\"mbr-table-cell col-md-4\">\n                    <div class=\"text-xs-center\"><a class=\"button01 button2 \" href=\"https://mobirise.com\">How Much</a></div>\n                </div>\n            </div>\n\n\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".btn {\n\tfont-size: 18px;\n}\n.button01 {\n    background-color: #ff0000; /* Green */\n    border-radius: 18px;\n    color: white;\n    padding: 15px 32px;\n    text-align: center;\n    text-decoration: none;\n    display: inline-block;\n    font-size: 16px;\n    margin: 4px 2px;\n    cursor: pointer;\n    -webkit-transition-duration: 0.4s; /* Safari */\n    transition-duration: 0.4s;\n}\n\n.button1 {\n    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);\n}\n\n.button2:hover {\n    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);\n}",
+          "_customTemplate": true
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<a href=\"http://www.freepik.com/free-vector/businessman-with-a-sign-of-success_958506.htm\">Designed by Freepik</a>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-8",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": "facebook-comments",
@@ -780,7 +788,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Why us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Web Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1010,7 +1018,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Why us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Web Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
