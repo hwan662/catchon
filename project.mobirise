@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.4.3",
-    "uniqCompNum": 9,
+    "uniqCompNum": 10,
     "versionPublish": "3.10",
     "name": "catchon",
     "theme": {
@@ -170,37 +170,74 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1",
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            },
+            ".mbr-section-lead": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "header1-9",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hansa-2000x1324-9.jpg",
-            "bgColor": "#F2F2F2",
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wer-2000x1333-9.jpg",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Catch-on",
+          "text": "Catch-on แคชออน เป็นบริษัทที่ตั้งอยู่ในท้องถิ่น และให้ความสำคัญต่อการพัฒนา ธุรกิจท้องถิ่น ให้ให้ก้าวไปสู่สากล ที่คนทั้งโลกจะมีโอกาสได้เห็น หรือสัมผัส ด้วยระบบเทคโนโลยี ด้าน internet ที่มีอยู่ในปัจจุบัน แคชออน เรายินดีรับบริการให้กับ ธุรกิจท้องถิ่นที่มีสถานที่ตั้ง ตำแหน่ง อยู่บนพื้นผิวโลก แล้วมาสร้างตัวตนในโลก online กับเรา เราจะทำให้ผู้คนได้ค้นหาท่านจนเจอ ด้วยเนื้อหาสาระสินค้าหรือบริการของท่าน ที่จะเป็นตัวนำคนเข้ามาในธุรกิจท้องถิ่นของท่าน อย่างเช่น \" ร้านอาหาร ในจังหวัดขอนแก่น\" หรือ \"ที่พัก อุบลราชธานี\" แม้แต่ \"เช่ารถตู้ โคราช\" \"ช่างซ่อมพระ นครพนม\" \"คลินิค ในอำเภอนางรอง\"เป็นต้น ผลการค้นหาดังกล่าวจะนำพาผู้ที่สนใจ ไปหาท่านด้วยเบอร์โทรศัพท์ แผนที รวมถึงการนำทางด้วย Google Map ง่ายต่อการเข้าถึงสำหรับทุกร<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hansa-2000x1324-9.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://goo.gl/images/zl28tf"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "Catch-\u001bon",
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Catch-on แคชออน เป็นบริษัทที่ตั้งอยู่ในท้องถิ่น และให้ความสำคัญต่อการพัฒนา ธุรกิจท้องถิ่น ให้ให้ก้าวไปสู่สากล ที่คนทั้งโลกจะมีโอกาสได้เห็น หรือสัมผัส ด้วยระบบเทคโนโลยี ด้าน internet ที่มีอยู่ในปัจจุบัน แคชออน เรายินดีรับบริการให้กับ ธุรกิจท้องถิ่นที่มีสถานที่ตั้ง ตำแหน่ง อยู่บนพื้นผิวโลก แล้วมาสร้างตัวตนในโลก online กับเรา เราจะทำให้ผู้คนได้ค้นหาท่านจนเจอ ด้วยเนื้อหาสาระสินค้าหรือบริการของท่าน ที่จะเป็นตัวนำคนเข้ามาในธุรกิจท้องถิ่นของท่าน อย่างเช่น \" ร้านอาหาร ในจังหวัดขอนแก่น\" หรือ \"ที่พัก อุบลราชธานี\" แม้แต่ \"เช่ารถตู้ โคราช\" \"ช่างซ่อมพระ นครพนม\" \"คลินิค ในอำเภอนางรอง\"เป็นต้น ผลการค้นหาดังกล่าวจะนำพาผู้ที่สนใจ ไปหาท่านด้วยเบอร์โทรศัพท์ แผนที รวมถึงการนำทางด้วย Google Map นอกจากนี้เรายังสามารถเปลี่ยนแฟนคลับ ร้านอาหาร หรือร้านกาแฟ ให้กลายเป็นผู้โฆษณาให้กับธุรกิจท้องถิ่นนั้นได้ ด้วยเทคโนโลยี่ Free Wifi เพิ่มจำนวนผู้เข้าร้าน และสร้างความจงรักภักดีต้องธุรกิจได้มหาศาล</span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/hansa-2000x1324-9.jpg); padding-top: 10px; padding-bottom: 30px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"myhead display-2 mbr-editable-content\" code-editable-id=\"86\">Catch-\u001bon</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"87\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Catch-on แคชออน เป็นบริษัทที่ตั้งอยู่ในท้องถิ่น และให้ความสำคัญต่อการพัฒนา ธุรกิจท้องถิ่น ให้ให้ก้าวไปสู่สากล ที่คนทั้งโลกจะมีโอกาสได้เห็น หรือสัมผัส ด้วยระบบเทคโนโลยี ด้าน internet ที่มีอยู่ในปัจจุบัน แคชออน เรายินดีรับบริการให้กับ ธุรกิจท้องถิ่นที่มีสถานที่ตั้ง ตำแหน่ง อยู่บนพื้นผิวโลก แล้วมาสร้างตัวตนในโลก online กับเรา เราจะทำให้ผู้คนได้ค้นหาท่านจนเจอ ด้วยเนื้อหาสาระสินค้าหรือบริการของท่าน ที่จะเป็นตัวนำคนเข้ามาในธุรกิจท้องถิ่นของท่าน อย่างเช่น \" ร้านอาหาร ในจังหวัดขอนแก่น\" หรือ \"ที่พัก อุบลราชธานี\" แม้แต่ \"เช่ารถตู้ โคราช\" \"ช่างซ่อมพระ นครพนม\" \"คลินิค ในอำเภอนางรอง\"เป็นต้น ผลการค้นหาดังกล่าวจะนำพาผู้ที่สนใจ ไปหาท่านด้วยเบอร์โทรศัพท์ แผนที รวมถึงการนำทางด้วย Google Map ง่ายต่อการเข้าถึงสำหรับทุกรณี</span><br></p></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/hansa-2000x1324-9.jpg); padding-top: 10px; padding-bottom: 30px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"myhead display-2 mbr-editable-content\" code-editable-id=\"108\">Catch-\u001bon</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"109\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Catch-on แคชออน เป็นบริษัทที่ตั้งอยู่ในท้องถิ่น และให้ความสำคัญต่อการพัฒนา ธุรกิจท้องถิ่น ให้ให้ก้าวไปสู่สากล ที่คนทั้งโลกจะมีโอกาสได้เห็น หรือสัมผัส ด้วยระบบเทคโนโลยี ด้าน internet ที่มีอยู่ในปัจจุบัน แคชออน เรายินดีรับบริการให้กับ ธุรกิจท้องถิ่นที่มีสถานที่ตั้ง ตำแหน่ง อยู่บนพื้นผิวโลก แล้วมาสร้างตัวตนในโลก online กับเรา เราจะทำให้ผู้คนได้ค้นหาท่านจนเจอ ด้วยเนื้อหาสาระสินค้าหรือบริการของท่าน ที่จะเป็นตัวนำคนเข้ามาในธุรกิจท้องถิ่นของท่าน อย่างเช่น \" ร้านอาหาร ในจังหวัดขอนแก่น\" หรือ \"ที่พัก อุบลราชธานี\" แม้แต่ \"เช่ารถตู้ โคราช\" \"ช่างซ่อมพระ นครพนม\" \"คลินิค ในอำเภอนางรอง\"เป็นต้น ผลการค้นหาดังกล่าวจะนำพาผู้ที่สนใจ ไปหาท่านด้วยเบอร์โทรศัพท์ แผนที รวมถึงการนำทางด้วย Google Map ง่ายต่อการเข้าถึงสำหรับทุกรณี</span><br></p></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title, p {\n\tcolor: #fff;\n}\n.mbr-section-title {\n\tcolor: #b8312f;\n}\n.myhead {\n    color: white;\n    text-shadow: 2px 2px 4px #FF0000;\n}",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "msg-box8-1"
         },
         {
           "_inherit": "features3",
@@ -324,12 +361,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-6",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#28324e",
-            "showMeta": false
+            "bgColor": "#28324e"
           },
           "title": "Catchon ทำอะไรให้ได้บ้าง",
           "meta": "By John Smith posted July 20, 2016",
@@ -337,7 +373,8 @@
           "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(40, 50, 78); padding-top: 0px; padding-bottom: 10px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"myhead002 display-2 mbr-editable-content\" code-editable-id=\"59\">Catchonทำอะไรให้ได้บ้าง</h3>\n                \n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "header3-6"
         },
         {
           "_inherit": "gallery1",
@@ -564,26 +601,25 @@
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-7",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">How Much</a>",
           "text": "ข้อมูลยังมีอีกเพิ่มเติมเพื่อให้ท่านได้ตัดสินใจ หรือจะให้ Comment กับเราด้านล่างนี้",
@@ -592,7 +628,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".btn {\n\tfont-size: 18px;\n}\n.button01 {\n    background-color: #ff0000; /* Green */\n    border-radius: 18px;\n    color: white;\n    padding: 15px 32px;\n    text-align: center;\n    text-decoration: none;\n    display: inline-block;\n    font-size: 16px;\n    margin: 4px 2px;\n    cursor: pointer;\n    -webkit-transition-duration: 0.4s; /* Safari */\n    transition-duration: 0.4s;\n}\n\n.button1 {\n    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);\n}\n\n.button2:hover {\n    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);\n}",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "msg-box1-7"
         },
         {
           "alias": "facebook-comments",
