@@ -488,7 +488,7 @@ h6,
 }
 #header1-9 .mylead {
   color: white;
-  text-shadow: 2px 2px 4px #FFFF00;
+  text-shadow: 2px 2px 4px #000000;
 }
 #header3-6 .myhead002 {
   color: white;
@@ -522,6 +522,10 @@ h6,
 }
 #msg-box1-7 .button2:hover {
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+#msg-box1-7 .mylead {
+  color: black;
+  text-shadow: 2px 2px 4px #ff0000;
 }
 #contacts2-0 STRONG {
   color: #ff0000;
