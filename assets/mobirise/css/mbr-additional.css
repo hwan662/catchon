@@ -1177,11 +1177,8 @@ h6,
 #ext_menu-1n .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header6-1o .mbr-section-title {
-  color: #28262b;
-}
-#header6-1o .mbr-section-text {
-  color: #565656;
+#slider-23 H2 {
+  color: #fac51c;
 }
 #contacts2-1q STRONG {
   color: #ff0000;
@@ -1323,11 +1320,14 @@ h6,
 #ext_menu-1x .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header6-1y .mbr-section-title {
-  color: #28262b;
+#form2-25 .mbr-section-title {
+  color: #fac51c;
 }
-#header6-1y .mbr-section-text {
-  color: #565656;
+#form2-25 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#form1-24 .form-control-label {
+  color: #232323;
 }
 #contacts2-20 STRONG {
   color: #ff0000;
