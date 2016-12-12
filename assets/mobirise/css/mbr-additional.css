@@ -482,6 +482,14 @@ h6,
 #header1-9 .mbr-section-lead {
   color: #cccccc;
 }
+#header1-9 .myhead {
+  color: white;
+  text-shadow: 2px 2px 4px #FF0000;
+}
+#header1-9 .mylead {
+  color: white;
+  text-shadow: 2px 2px 4px #FF0000;
+}
 #msg-box8-1 .mbr-section-title,
 #msg-box8-1 p {
   color: #fff;
