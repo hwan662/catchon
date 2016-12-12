@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.4.3",
-    "uniqCompNum": 11,
+    "uniqCompNum": 74,
     "versionPublish": "3.10",
     "name": "catchon",
     "theme": {
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "header1",
@@ -664,7 +664,7 @@
         }
       ]
     },
-    "page2.html": {
+    "Template.html": {
       "settings": {
         "title": "",
         "meta_descr": "",
@@ -690,8 +690,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "font-family": "'PT Sans Narrow', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
               "font-size": "1.3rem"
@@ -726,14 +726,14 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-0",
+          "_anchor": "ext_menu-b",
           "_params": {
             "bgColor": "#283c58",
             "fontSize": "1.3",
             "fontName": {
-              "name": "PT Sans Narrow",
-              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "css": "'PT Sans Narrow', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "#c0a375",
@@ -761,13 +761,88 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-n",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Template",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-j"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"124\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<img src=\"file:///E:/catchon web 2015\\catchon16\\img\\communication.png\" width=\"60\" height=\"30\"><strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: <a href=\"mailto:Info@catchon.biz\">Info@catchon.biz</a><br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                   <a href=\"http://line.me/ti/p/x54bPm2cBL\"><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"></a><a class=\"text-white\" href=\"http://line.me/ti/p/x54bPm2cBL\">line ID: catch-on</a><br>\nFax: ขออภัยด้วย ส่งทางเมล์ชัดกว่า</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"125\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n    text-shadow: 1px 1px 2px #ffffff;\n}\n",
+          "_customTemplate": true,
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -787,18 +862,18 @@
           },
           "text1": "<strong>สถานที่ตั้ง Asdkfdsfks</strong><br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"104\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: Info@catchon.biz<br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                    line ID: catch-on<br>\nFax: เลิกใช้ไปนานแล้ว</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"105\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n}\n",
-          "_customTemplate": true,
-          "_anchor": "contacts2-1"
+          "_anchor": "contacts2-k"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(42, 72, 85); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"121\">© Copyright - Catchon.biz 2013</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -812,12 +887,2277 @@
             "overlayOpacity": 0.8
           },
           "text": "© Copyright - Catchon.biz 2013",
+          "_anchor": "footer1-l"
+        }
+      ]
+    },
+    "Small Business.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#182435"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#23354d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#283c58"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-o",
+          "_params": {
+            "bgColor": "#283c58",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2016-154x128-11.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-p",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Small Business",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-q"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"124\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<img src=\"file:///E:/catchon web 2015\\catchon16\\img\\communication.png\" width=\"60\" height=\"30\"><strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: <a href=\"mailto:Info@catchon.biz\">Info@catchon.biz</a><br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                   <a href=\"http://line.me/ti/p/x54bPm2cBL\"><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"></a><a class=\"text-white\" href=\"http://line.me/ti/p/x54bPm2cBL\">line ID: catch-on</a><br>\nFax: ขออภัยด้วย ส่งทางเมล์ชัดกว่า</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"125\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n    text-shadow: 1px 1px 2px #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>สถานที่ตั้ง Asdkfdsfks</strong><br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_anchor": "contacts2-r"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
           "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(42, 72, 85); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"121\">© Copyright - Catchon.biz 2013</p>\n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
           "_customTemplate": true,
-          "_anchor": "footer1-2"
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright - Catchon.biz 2013",
+          "_anchor": "footer1-s"
+        }
+      ]
+    },
+    "Corporation.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#182435"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#23354d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#283c58"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-t",
+          "_params": {
+            "bgColor": "#283c58",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2016-154x128-11.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Coporation",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-v"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"124\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<img src=\"file:///E:/catchon web 2015\\catchon16\\img\\communication.png\" width=\"60\" height=\"30\"><strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: <a href=\"mailto:Info@catchon.biz\">Info@catchon.biz</a><br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                   <a href=\"http://line.me/ti/p/x54bPm2cBL\"><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"></a><a class=\"text-white\" href=\"http://line.me/ti/p/x54bPm2cBL\">line ID: catch-on</a><br>\nFax: ขออภัยด้วย ส่งทางเมล์ชัดกว่า</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"125\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n    text-shadow: 1px 1px 2px #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>สถานที่ตั้ง Asdkfdsfks</strong><br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_anchor": "contacts2-w"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(42, 72, 85); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"121\">© Copyright - Catchon.biz 2013</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright - Catchon.biz 2013",
+          "_anchor": "footer1-x"
+        }
+      ]
+    },
+    "E-Commerce.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#182435"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#23354d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#283c58"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-y",
+          "_params": {
+            "bgColor": "#283c58",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2016-154x128-11.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-z",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "E-Commerce",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-10"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"124\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<img src=\"file:///E:/catchon web 2015\\catchon16\\img\\communication.png\" width=\"60\" height=\"30\"><strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: <a href=\"mailto:Info@catchon.biz\">Info@catchon.biz</a><br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                   <a href=\"http://line.me/ti/p/x54bPm2cBL\"><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"></a><a class=\"text-white\" href=\"http://line.me/ti/p/x54bPm2cBL\">line ID: catch-on</a><br>\nFax: ขออภัยด้วย ส่งทางเมล์ชัดกว่า</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"125\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n    text-shadow: 1px 1px 2px #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>สถานที่ตั้ง Asdkfdsfks</strong><br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_anchor": "contacts2-11"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(42, 72, 85); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"121\">© Copyright - Catchon.biz 2013</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright - Catchon.biz 2013",
+          "_anchor": "footer1-12"
+        }
+      ]
+    },
+    "Promote.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#182435"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#23354d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#283c58"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13",
+          "_params": {
+            "bgColor": "#283c58",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2016-154x128-11.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-14",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "promote",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-15"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"124\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<img src=\"file:///E:/catchon web 2015\\catchon16\\img\\communication.png\" width=\"60\" height=\"30\"><strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: <a href=\"mailto:Info@catchon.biz\">Info@catchon.biz</a><br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                   <a href=\"http://line.me/ti/p/x54bPm2cBL\"><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"></a><a class=\"text-white\" href=\"http://line.me/ti/p/x54bPm2cBL\">line ID: catch-on</a><br>\nFax: ขออภัยด้วย ส่งทางเมล์ชัดกว่า</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"125\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n    text-shadow: 1px 1px 2px #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>สถานที่ตั้ง Asdkfdsfks</strong><br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_anchor": "contacts2-16"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(42, 72, 85); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"121\">© Copyright - Catchon.biz 2013</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright - Catchon.biz 2013",
+          "_anchor": "footer1-17"
+        }
+      ]
+    },
+    "fanpage.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#182435"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#23354d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#283c58"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-18",
+          "_params": {
+            "bgColor": "#283c58",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2016-154x128-11.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-19",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "fanpage",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-1a"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"124\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<img src=\"file:///E:/catchon web 2015\\catchon16\\img\\communication.png\" width=\"60\" height=\"30\"><strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: <a href=\"mailto:Info@catchon.biz\">Info@catchon.biz</a><br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                   <a href=\"http://line.me/ti/p/x54bPm2cBL\"><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"></a><a class=\"text-white\" href=\"http://line.me/ti/p/x54bPm2cBL\">line ID: catch-on</a><br>\nFax: ขออภัยด้วย ส่งทางเมล์ชัดกว่า</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"125\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n    text-shadow: 1px 1px 2px #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>สถานที่ตั้ง Asdkfdsfks</strong><br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_anchor": "contacts2-1b"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(42, 72, 85); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"121\">© Copyright - Catchon.biz 2013</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright - Catchon.biz 2013",
+          "_anchor": "footer1-1c"
+        }
+      ]
+    },
+    "linepage.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#182435"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#23354d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#283c58"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1d",
+          "_params": {
+            "bgColor": "#283c58",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2016-154x128-11.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1e",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Linepage",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-1f"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"124\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<img src=\"file:///E:/catchon web 2015\\catchon16\\img\\communication.png\" width=\"60\" height=\"30\"><strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: <a href=\"mailto:Info@catchon.biz\">Info@catchon.biz</a><br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                   <a href=\"http://line.me/ti/p/x54bPm2cBL\"><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"></a><a class=\"text-white\" href=\"http://line.me/ti/p/x54bPm2cBL\">line ID: catch-on</a><br>\nFax: ขออภัยด้วย ส่งทางเมล์ชัดกว่า</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"125\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n    text-shadow: 1px 1px 2px #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>สถานที่ตั้ง Asdkfdsfks</strong><br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_anchor": "contacts2-1g"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(42, 72, 85); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"121\">© Copyright - Catchon.biz 2013</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright - Catchon.biz 2013",
+          "_anchor": "footer1-1h"
+        }
+      ]
+    },
+    "Managementonline.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#182435"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#23354d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#283c58"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1i",
+          "_params": {
+            "bgColor": "#283c58",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2016-154x128-11.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1j",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Manegement",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-1k"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"124\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<img src=\"file:///E:/catchon web 2015\\catchon16\\img\\communication.png\" width=\"60\" height=\"30\"><strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: <a href=\"mailto:Info@catchon.biz\">Info@catchon.biz</a><br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                   <a href=\"http://line.me/ti/p/x54bPm2cBL\"><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"></a><a class=\"text-white\" href=\"http://line.me/ti/p/x54bPm2cBL\">line ID: catch-on</a><br>\nFax: ขออภัยด้วย ส่งทางเมล์ชัดกว่า</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"125\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n    text-shadow: 1px 1px 2px #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>สถานที่ตั้ง Asdkfdsfks</strong><br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_anchor": "contacts2-1l"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(42, 72, 85); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"121\">© Copyright - Catchon.biz 2013</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright - Catchon.biz 2013",
+          "_anchor": "footer1-1m"
+        }
+      ]
+    },
+    "Porfolio.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#182435"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#23354d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#283c58"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1n",
+          "_params": {
+            "bgColor": "#283c58",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2016-154x128-11.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1o",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Portfolio",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-1p"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"124\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<img src=\"file:///E:/catchon web 2015\\catchon16\\img\\communication.png\" width=\"60\" height=\"30\"><strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: <a href=\"mailto:Info@catchon.biz\">Info@catchon.biz</a><br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                   <a href=\"http://line.me/ti/p/x54bPm2cBL\"><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"></a><a class=\"text-white\" href=\"http://line.me/ti/p/x54bPm2cBL\">line ID: catch-on</a><br>\nFax: ขออภัยด้วย ส่งทางเมล์ชัดกว่า</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"125\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n    text-shadow: 1px 1px 2px #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>สถานที่ตั้ง Asdkfdsfks</strong><br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_anchor": "contacts2-1q"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(42, 72, 85); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"121\">© Copyright - Catchon.biz 2013</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright - Catchon.biz 2013",
+          "_anchor": "footer1-1r"
+        }
+      ]
+    },
+    "FAQ.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#182435"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#23354d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#283c58"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1s",
+          "_params": {
+            "bgColor": "#283c58",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2016-154x128-11.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1t",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "FAQ",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-1u"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"124\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<img src=\"file:///E:/catchon web 2015\\catchon16\\img\\communication.png\" width=\"60\" height=\"30\"><strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: <a href=\"mailto:Info@catchon.biz\">Info@catchon.biz</a><br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                   <a href=\"http://line.me/ti/p/x54bPm2cBL\"><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"></a><a class=\"text-white\" href=\"http://line.me/ti/p/x54bPm2cBL\">line ID: catch-on</a><br>\nFax: ขออภัยด้วย ส่งทางเมล์ชัดกว่า</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"125\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n    text-shadow: 1px 1px 2px #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>สถานที่ตั้ง Asdkfdsfks</strong><br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_anchor": "contacts2-1v"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(42, 72, 85); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"121\">© Copyright - Catchon.biz 2013</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright - Catchon.biz 2013",
+          "_anchor": "footer1-1w"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.3rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.408rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#182435"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#23354d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#283c58"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1x",
+          "_params": {
+            "bgColor": "#283c58",
+            "fontSize": "1.3",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2016-154x128-11.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Web Design</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Small Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Corporation.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">E-Commerce</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Promote by google</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Create Page Social</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"linepage.html\" aria-expanded=\"false\">Line@</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Management online</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQ.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1y",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Contact",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-1z"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(40, 60, 90); padding-top: 30px; padding-bottom: 30px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"124\">\n                    <img src=\"file:///E:/catchon web 2015\\catchon16\\img\\i am here.png\"><strong>สถานที่ตั้ง(Address)</strong>\n                    <br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br>\n<img src=\"file:///E:/catchon web 2015\\catchon16\\img\\communication.png\" width=\"60\" height=\"30\"><strong>ช่องทางติดต่อ(Contacts)</strong><br>\n                    Email: <a href=\"mailto:Info@catchon.biz\">Info@catchon.biz</a><br>\nPhone: 081-499-9102<br>\n       043-776-151<br>\n                   <a href=\"http://line.me/ti/p/x54bPm2cBL\"><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"></a><a class=\"text-white\" href=\"http://line.me/ti/p/x54bPm2cBL\">line ID: catch-on</a><br>\nFax: ขออภัยด้วย ส่งทางเมล์ชัดกว่า</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"125\"><strong>SocialMedia</strong><ul>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\facebook-50x50-91.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://www.facebook.com/catchon.biz\" width=\"20\" height=\"20\">Facebook</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\line-app-logo-copy-62x60-4.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://line.me/R/ti/p/%40kla4168y\">Line @</a></li>\n            <li><img src=\"file:///E:/catchon web 2015\\catchon16\\assets\\images\\google-round-logo-60x60-2.png\" width=\"30\" height=\"30\"><a class=\"text-white\" href=\"https://plus.google.com/106779944137223601453\">Google+</a></li>\n            <li><img src=\"file:///E:\\catchon web 2015\\catchon16\\img\\my channal.png\" width=\"40\" height=\"40\"><a class=\"text-white\" href=\"https://www.youtube.com/channel/UC4-J9VqtMj63DRhhcLUZSAw\">Youtube</a></li></ul>\n             </div>\n            \n               \n        \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.140052914101!2d103.009241314421!3d16.264590988760535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a72bad3e35156db!2scatchon!5e0!3m2!1sth!2sth!4v1477067285320\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ff0000;\n    text-shadow: 1px 1px 2px #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>สถานที่ตั้ง Asdkfdsfks</strong><br>ที่ตั้ง: 113 หมู่ 7 ตำบล หนองบอน อำภอ โกสุมพิสัย จังหวัด มหาสารคาม ประเทศไทย 44140<br>Address: 113 Moo 7 Thambon Nongbon Amphor Kosumpisai Mahasarakham city Thailand 44140<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_anchor": "contacts2-20"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(42, 72, 85); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"121\">© Copyright - Catchon.biz 2013</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright - Catchon.biz 2013",
+          "_anchor": "footer1-21"
         }
       ]
     }
