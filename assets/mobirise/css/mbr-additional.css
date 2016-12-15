@@ -666,11 +666,24 @@ h6,
 #ext_menu-o .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header6-p .mbr-section-title {
-  color: #28262b;
+#msg-box6-2d .mbr-section-title,
+#msg-box6-2d .lead p {
+  color: #fff;
 }
-#header6-p .mbr-section-text {
-  color: #565656;
+#msg-box5-27 H3 {
+  font-size: 36px;
+}
+#msg-box5-28 H3 {
+  font-size: 36px;
+  text-align: center;
+}
+#msg-box5-29 H3 {
+  font-size: 36px;
+  text-align: center;
+}
+#header3-2b .mbr-section-title,
+#header3-2b .mbr-section-subtitle {
+  text-align: center;
 }
 #contacts2-r STRONG {
   color: #ff0000;
