@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Small Business.html",
+    "currentPage": "index.html",
     "versionFirst": "3.4.3",
-    "uniqCompNum": 89,
+    "uniqCompNum": 90,
     "versionPublish": "3.10.3",
     "name": "catchon",
     "theme": {
@@ -18,9 +18,9 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       }
     },
     "scrollAnimation": "true",
@@ -321,7 +321,7 @@
           ],
           "_name": "header3",
           "_customCSS": ".myhead002{\n    color: white;\n    text-shadow: 2px 2px 4px black, 0 0 25px red, 0 0 5px darkblue;\n    text-align: center;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(40, 50, 78); padding-top: 0px; padding-bottom: 10px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"myhead002 display-2 mbr-editable-content\" code-editable-id=\"59\">Catchonทำอะไรให้ได้บ้าง</h3>\n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(40, 50, 78); padding-top: 0px; padding-bottom: 10px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"myhead002 display-2 mbr-editable-content\" code-editable-id=\"11\">Catchonทำอะไรให้ได้บ้าง</h3>\n                \n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
@@ -591,20 +591,6 @@
           "_anchor": "msg-box1-7"
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<section>\n    <div class=\"row\">\n            <div class=\"col-sm-8 col-sm-offset-2\"><div class=\"facebookPlaceholder\" data-numposts=\"5\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"/addons/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div></div>\n            \n           \n        </div>\n</section>",
-          "_customCSS": "",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_anchor": "custom-html-a"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -659,6 +645,31 @@
           },
           "text": "© Copyright - Catchon.biz 2013",
           "_anchor": "footer1-1"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-2h",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         }
       ]
     },
@@ -994,6 +1005,14 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "color": "#fac51c"
+            },
+            ".btn": {
+              "font-size": "46px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -1048,21 +1067,21 @@
             "showBullets": true
           },
           "_anchor": "slider-2g",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "color": "#fac51c"
-            },
-            ".btn": {
-              "font-size": "46px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".btn": {
+              "font-size": "60px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header1-2f",
           "_params": {
             "parallax": true,
@@ -1085,15 +1104,7 @@
           },
           "title": "ราคาเริ่มต้นที่",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9,500 ฿</a>",
-          "_styles": {
-            ".btn": {
-              "font-size": "60px"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9,500 ฿</a>"
         },
         {
           "_tags": [
@@ -3319,6 +3330,14 @@
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".card-footer > div": {
+              "color": "#e25041"
+            }
+          },
           "testimonial": [
             {
               "text": "<p><b>ดกาดสกหดากดสกดวหกสดากหวาดฟกสด</b></p><p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
@@ -3452,6 +3471,9 @@
             "count": "9",
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -3461,21 +3483,10 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "คำถามที่พบบ่อย/ประการของลูกค้าเรา",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".card-footer > div": {
-              "color": "#e25041"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_customTemplate": true,
