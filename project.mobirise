@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Small Business.html",
     "versionFirst": "3.4.3",
     "uniqCompNum": 90,
     "versionPublish": "3.10.3",
@@ -18,7 +18,7 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
@@ -1055,11 +1055,11 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "IMAGE SLIDE",
+                "title": "จุดประกายให้ธุรกิจ",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "เมื่อโลกมีการเปลี่ยนแปลง ธุรกิจที่เปล่งรัศมีให้กับตนเอง ย่อมที่จะสามารถสร้างความอยู่รอดให้ธุรกิจนั้นได้",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Small Business.html#header1-2f\" data-toolbar=\"-mbrBtnMove\">ท่านจะได้อะไรบ้าง</a> "
               }
             ],
             "fullScreen": true,
@@ -1079,7 +1079,7 @@
               "font-size": "60px"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#e25041"
             }
           },
           "_anchor": "header1-2f",
@@ -1102,7 +1102,7 @@
             "showText": false,
             "showButtons": true
           },
-          "title": "ราคาเริ่มต้นที่",
+          "title": "สิ่งที่ได้จากราคา",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9,500 ฿</a>"
         },
@@ -1231,8 +1231,8 @@
           "_anchor": "msg-box5-28",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1254,7 +1254,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ms-2011-wordle-1400x671-11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1427751840561-9852520f8ce8-1400x927-86.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1313,7 +1313,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/maps2015-1400x942-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/google-maps-mobile-smartphone-1400x787-92.jpg",
               "link": "",
               "alt": "",
               "title": "",

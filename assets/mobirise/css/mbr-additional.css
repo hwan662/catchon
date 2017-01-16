@@ -54,6 +54,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -676,7 +682,7 @@ h6,
   font-size: 60px;
 }
 #header1-2f .mbr-section-title {
-  color: #ffffff;
+  color: #e25041;
 }
 #msg-box5-27 H3 {
   font-size: 36px;
